@@ -1,0 +1,6 @@
+
+ios/Pods
+.DS_Store
+ios/Podfile.lock
+ios/ReactComponents/node_modules
+
